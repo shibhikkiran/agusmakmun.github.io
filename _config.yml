@@ -1,8 +1,8 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+title: Blog Posts!
+description: Blog Posts!
+author: Shibhikkiran Devadoss
+github: https://github.com/shibhikkiran
+about: Python Lover, Automation Specialist and Proud Farmer!
 
 
 
@@ -38,7 +38,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://shibhikkiran.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
